@@ -1,0 +1,129 @@
+[
+        "payment_method": "cash",
+        "total": 585,
+        "items": [
+            {
+                "item_id": "classic",
+                "name": "Classic Milk Tea",
+                "size": "large",
+                "sugar_level": "more_sugar",
+                "ice_level": "more_ice",
+                "quantity": 6,
+                "price": 585
+            }
+        ],
+        "order_date": "2025-11-08 17:45:19",
+        "status": "completed",
+        "updated_at": "2025-11-08 17:49:02"
+    },
+    {
+        "order_number": "ZAP202511087265",
+        "user_id": 6,
+        "customer_name": "omar tabon",
+        "contact_number": "09854126745",
+        "delivery_address": "sa kanto",
+        "payment_method": "cash",
+        "total": 50,
+        "items": [
+            {
+                "item_id": "classic",
+                "name": "Classic Milk Tea",
+                "size": "regular",
+                "sugar_level": "regular",
+                "ice_level": "regular",
+                "quantity": 1,
+                "price": 50
+            }
+        ],
+        "order_date": "2025-11-08 18:49:50",
+        "status": "pending"
+    },
+    {
+        "order_number": "ZAP202511082536",
+        "user_id": 7,
+        "customer_name": "ylmar nuy",
+        "contact_number": "09151564656",
+        "delivery_address": "opo",
+        "payment_method": "paymaya",
+        "total": 50,
+        "items": [
+            {
+                "item_id": "taro",
+                "name": "Taro Milk Tea",
+                "size": "regular",
+                "sugar_level": "regular",
+                "ice_level": "regular",
+                "quantity": 1,
+                "price": 50
+            }
+        ],
+        "order_date": "2025-11-08 18:58:42",
+        "status": "pending"
+    },
+    {
+        "order_number": "ZAP202511081170",
+        "user_id": 8,
+        "customer_name": "kuro tet",
+        "contact_number": "09854126745",
+        "delivery_address": "dadsa",
+        "payment_method": "cash",
+        "total": 80,
+        "items": [
+            {
+                "item_id": "fruit_tea_peach",
+                "name": "Peach Fruit Tea",
+                "size": "regular",
+                "sugar_level": "regular",
+                "ice_level": "regular",
+                "quantity": 1,
+                "price": 80
+            }
+        ],
+        "order_date": "2025-11-08 19:07:07",
+        "status": "pending"
+    },
+    {
+        "order_number": "ZAP202511084125",
+        "user_id": 9,
+        "customer_name": "kain na",
+        "contact_number": "09888888888",
+        "delivery_address": "dito lang",
+        "payment_method": "paymaya",
+        "total": 50,
+        "items": [
+            {
+                "item_id": "taro",
+                "name": "Taro Milk Tea",
+                "size": "regular",
+                "sugar_level": "regular",
+                "ice_level": "regular",
+                "quantity": 1,
+                "price": 50
+            }
+        ],
+        "order_date": "2025-11-08 19:16:52",
+        "status": "pending"
+    },
+    {
+        "order_number": "ZAP202511084839",
+        "user_id": 9,
+        "customer_name": "kain na",
+        "contact_number": "09999999999",
+        "delivery_address": "wwwqwe",
+        "payment_method": "cash",
+        "total": 50,
+        "items": [
+            {
+                "item_id": "matcha",
+                "name": "Matcha Milk Tea",
+                "size": "regular",
+                "sugar_level": "regular",
+                "ice_level": "regular",
+                "quantity": 1,
+                "price": 50
+            }
+        ],
+        "order_date": "2025-11-08 19:25:32",
+        "status": "pending"
+    }
+]

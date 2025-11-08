@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "username": "jamel",
+        "email": "jamel@gmail.com",
+        "password_hash": "$2y$10$0mHsrwg8\/\/l54Yy0ZJlwWubpUc4nbrU3fw51axoEhNyoqcsfWFmlu",
+        "full_name": "jamel",
+        "contact_number": "",
+        "address": "",
+        "created_at": "2025-11-04 03:20:32"
+    },
+    {
+        "id": 2,
+        "username": "lebron",
+        "email": "lebron@gmail.com",
+        "password_hash": "$2y$10$hJ95LDf7nrb1Y2JHO61DC.7.5Gpt\/nsIqfj3Htn7xgs13hNka9vU2",
+        "full_name": "lebron",
+        "contact_number": "",
+        "address": "",
+        "created_at": "2025-11-04 03:48:24"
+    },
+    {
+        "id": 3,
+        "username": "pedro",
+        "email": "pedro@gmail.com",
+        "password_hash": "$2y$10$iAL8kI3RGwSUr5ewVfN2t.NRob5hfq0nnVIw\/w5OZZswf01buKhbe",
+        "full_name": "juan pedro",
+        "contact_number": "",
+        "address": "",
+        "created_at": "2025-11-08 17:44:27"
+    },
+    {
+        "id": 4,
+        "username": "yesyes",
+        "email": "yes@gmail.com",
+        "password_hash": "$2y$10$ZtHdkjWBwxXa2ZdDbndxY.xuL.Ocse\/jbUyniEtrPhuNKCGui2TLm",
+        "full_name": "sige",
+        "contact_number": "",
+        "address": "",
+        "created_at": "2025-11-08 18:43:20"
+    },
+    {
+        "id": 5,
+        "username": "lebwrong",
+        "email": "lebwrong@gmail.com",
+        "password_hash": "$2y$10$xCPAt3BPDcGmUFJgF49fau9z3SsAQcxJ\/oKicDF9s8hWKqIxX2Ysi",
+        "full_name": "lebron james",
+        "contact_number": "",
+        "address": "",
+        "created_at": "2025-11-08 18:44:38"
+    },
+    {
+        "id": 6,
+        "username": "omarrr",
+        "email": "omar@gmail.com",
+        "password_hash": "$2y$10$Jof4P0v.DiZy6ffKz.Z0Z.YrqL4o5sYn\/xDqCFuXrDY7cX74nXePS",
+        "full_name": "omar tabon",
+        "contact_number": "",
+        "address": "",
+        "created_at": "2025-11-08 18:48:59"
+    },
+    {
+        "id": 7,
+        "username": "mamomi",
+        "email": "mamomi@gmail.com",
+        "password_hash": "$2y$10$3yfxSNjuYnx3jPSdRzkR7.98Gp5LciRPZYUpVEQFW1WUmOrD3f1nC",
+        "full_name": "ylmar nuy",
+        "contact_number": "",
+        "address": "",
+        "created_at": "2025-11-08 18:58:04"
+    },
+    {
+        "id": 8,
+        "username": "kurooo",
+        "email": "kurooo@gmail.com",
+        "password_hash": "$2y$10$ZbUkppxGMcFc6weWwH9\/kuLl4p2FOLDY4OWPc7l20PIGU.2eWQA3i",
+        "full_name": "kuro tet",
+        "contact_number": "",
+        "address": "",
+        "created_at": "2025-11-08 19:05:19"
+    }
+]
